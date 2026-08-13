@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 180">
+<rect width="420" height="180" rx="28" fill="#FFFFFF"/>
+<g transform="translate(84 34)" fill="none" stroke-linecap="round">
+<path d="M18 4v78" stroke="#1C1C1C" stroke-width="12"/>
+<circle cx="44" cy="58" r="27" stroke="#1C1C1C" stroke-width="12"/>
+<path d="M98 34v48" stroke="#2EC5C9" stroke-width="12"/>
+<circle cx="98" cy="13" r="6" fill="#FF6B6B" stroke="none"/>
+<circle cx="153" cy="58" r="27" stroke="#2EC5C9" stroke-width="12"/>
+<path d="M171 77l10 15" stroke="#2EC5C9" stroke-width="12"/>
+</g>
+<text x="210" y="144" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" letter-spacing="5" fill="#1C1C1C">BIMATIQ</text>
+</svg>
