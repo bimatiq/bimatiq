@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Bimatiq" width="100%">
+<img src="./assets/biq_logo.svg" alt="Bimatiq logo" width="300">
+
+# BIMATIQ
+
+### BIM automation, Revit development and practical AI for design and construction
+
+**Structured information. Better workflows. Useful automation.**
 
 <br>
 
