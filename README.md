@@ -1,21 +1,15 @@
 <div align="center">
 
-<img src="./assets/biq_logo.svg" alt="Bimatiq logo" width="300">
-
-# BIMATIQ
-
-### BIM automation, Revit development and practical AI for design and construction
-
-**Structured information. Better workflows. Useful automation.**
+<img src="./assets/header.svg" alt="bimatiq" width="100%">
 
 <br>
 
-<img src="./assets/badges/revit.svg" alt="Revit" width="145">
-<img src="./assets/badges/csharp.svg" alt="C Sharp" width="145">
-<img src="./assets/badges/python.svg" alt="Python" width="145">
-<img src="./assets/badges/dynamo.svg" alt="Dynamo" width="145">
-<img src="./assets/badges/ai.svg" alt="AI" width="145">
-<img src="./assets/badges/git.svg" alt="Git" width="145">
+<img src="./assets/badges/revit_brand.svg" alt="Revit" width="145">
+<img src="./assets/badges/csharp_brand.svg" alt="C Sharp" width="145">
+<img src="./assets/badges/python_brand.svg" alt="Python" width="145">
+<img src="./assets/badges/dynamo_brand.svg" alt="Dynamo" width="145">
+<img src="./assets/badges/intelligence_brand.svg" alt="Practical AI" width="145">
+<img src="./assets/badges/git_brand.svg" alt="Git" width="145">
 
 </div>
 
@@ -158,11 +152,7 @@ Focused on connecting design knowledge with software and automation to solve pra
 
 <div align="center">
 
-<img src="./assets/biq_logo.svg" alt="Bimatiq logo" width="190">
-
-<br>
-
-**BIM Automation · Revit Development · Digital Workflows · Practical AI**
+**BIM automation · Revit development · Digital workflows · Practical AI**
 
 *Building better ways to work with design information.*
 
