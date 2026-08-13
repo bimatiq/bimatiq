@@ -2,58 +2,48 @@
   <rect width="1200" height="300" rx="28" fill="#F7F7F5"/>
   <path d="M42 42H1158" stroke="#E3E7E8" stroke-width="2"/>
   <path d="M42 258H1158" stroke="#E3E7E8" stroke-width="2"/>
-  <rect x="39" y="38" width="11" height="11" rx="1.5" fill="#E76F51"/>
-  <text x="66" y="53" font-family="Comfortaa, Arial, sans-serif" font-size="24" font-weight="600" fill="#1D2D35">our automation method</text>
-  <text x="66" y="78" font-family="IBM Plex Sans, Arial, sans-serif" font-size="14" fill="#5A6B73">A controlled path from workflow understanding to reliable improvement</text>
-
-  <path d="M132 157H1068" stroke="#E3E7E8" stroke-width="4" stroke-linecap="round"/>
-  <path d="M132 157H1068" stroke="#21877D" stroke-width="2" stroke-linecap="round" stroke-dasharray="3 13"/>
-
+  <text x="600" y="100" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="14" fill="#5A6B73">A controlled path from workflow understanding to reliable improvement</text>
+  <path d="M132 159H1068" stroke="#E3E7E8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M132 159H1068" stroke="#21877D" stroke-width="2" stroke-linecap="round" stroke-dasharray="3 13"/>
   <g>
-    <rect x="75" y="116" width="170" height="92" rx="16" fill="#FFFFFF" stroke="#E3E7E8"/>
-    <rect x="91" y="132" width="13" height="13" rx="1.8" fill="#E76F51"/>
-    <text x="116" y="144" font-family="IBM Plex Mono, monospace" font-size="12" fill="#5A6B73">01</text>
-    <text x="91" y="173" font-family="Comfortaa, Arial, sans-serif" font-size="19" font-weight="600" fill="#1D2D35">Understand</text>
-    <text x="91" y="194" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12" fill="#5A6B73">workflow + friction</text>
+    <rect x="75" y="118" width="170" height="92" rx="16" fill="#FFFFFF" stroke="#E3E7E8"/>
+    <rect x="91" y="134" width="13" height="13" rx="1.8" fill="#E76FQ1"/>
+    <text x="116" y="146" font-family="IBM Plex Mono, monospace" font-size="12" fill="#5A6B73">01</text>
+    <text x="91" y="175" font-family="Comfortaa, Arial, sans-serif" font-size="19" font-weight="600" fill="#1D2D35">Understand</text>
+    <text x="91" y="196" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12" fill="#5A6B73">workflow + friction</text>
   </g>
-
   <g>
-    <rect x="295" y="116" width="170" height="92" rx="16" fill="#FFFFFF" stroke="#E3E7E8"/>
-    <rect x="311" y="132" width="13" height="13" rx="1.8" fill="#21877D"/>
-    <text x="336" y="144" font-family="IBM Plex Mono, monospace" font-size="12" fill="#5A6B73">02</text>
-    <text x="311" y="173" font-family="Comfortaa, Arial, sans-serif" font-size="19" font-weight="600" fill="#1D2D35">Structure</text>
-    <text x="311" y="194" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12" fill="#5A6B73">data + rules</text>
+    <rect x="295" y="118" width="170" height="92" rx="16" fill="#FFFFFF" stroke="#E3E7E8"/>
+    <rect x="311" y="134" width="13" height="13" rx="1.8" fill="#21877D"/>
+    <text x="336" y="146" font-family="IBM Plex Mono, monospace" font-size="12" fill="#5A6B73">02</text>
+    <text x="311" y="175" font-family="Comfortaa, Arial, sans-serif" font-size="19" font-weight="600" fill="#1D2D35">Structure</text>
+    <text x="311" y="196" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12" fill="#5A6B73">data + rules</text>
   </g>
-
   <g>
-    <rect x="515" y="116" width="170" height="92" rx="16" fill="#1D2D35"/>
-    <rect x="531" y="132" width="13" height="13" rx="1.8" fill="#E76F51"/>
-    <text x="556" y="144" font-family="IBM Plex Mono, monospace" font-size="12" fill="#9BAAB2">03</text>
-    <text x="531" y="173" font-family="Comfortaa, Arial, sans-serif" font-size="19" font-weight="600" fill="#FFFFFF">Automate</text>
-    <text x="531" y="194" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12" fill="#9BAAB2">focused + controlled</text>
+    <rect x="515" y="118" width="170" height="92" rx="16" fill="#1D2D35"/>
+    <rect x="531" y="134" width="13" height="13" rx="1.8" fill="#E76F51"/>
+    <text x="556" y="146" font-family="IBM Plex Mono, monospace" font-size="12" fill="#9BAAB2">03</text>
+    <text x="531" y="175" font-family="Comfortaa, Arial, sans-serif" font-size="19" font-weight="600" fill="#FFFFFF">Automate</text>
+    <text x="531" y="196" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12" fill="#9BAAB2">focused + controlled</text>
   </g>
-
   <g>
-    <rect x="735" y="116" width="170" height="92" rx="16" fill="#FFFFFF" stroke="#E3E7E8"/>
-    <rect x="751" y="132" width="13" height="13" rx="1.8" fill="#21877D"/>
-    <text x="776" y="144" font-family="IBM Plex Mono, monospace" font-size="12" fill="#5A6B73">04</text>
-    <text x="751" y="173" font-family="Comfortaa, Arial, sans-serif" font-size="19" font-weight="600" fill="#1D2D35">Validate</text>
-    <text x="751" y="194" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12" fill="#5A6B73">check + trust</text>
+    <rect x="735" y="118" width="170" height="92" rx="16" fill="#FFFFFF" stroke="#E3E7E8"/>
+    <rect x="751" y="134" width="13" height="13" rx="1.8" fill="#21877D"/>
+    <text x="776" y="146" font-family="IBM Plex Mono, monospace" font-size="12" fill="#5A6B73">04</text>
+    <text x="751" y="175" font-family="Comfortaa, Arial, sans-serif" font-size="19" font-weight="600" fill="#1D2D35">Validate</text>
+    <text x="751" y="196" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12" fill="#5A6B73">check + trust</text>
   </g>
-
   <g>
-    <rect x="955" y="116" width="170" height="92" rx="16" fill="#FFFFFF" stroke="#E3E7E8"/>
-    <rect x="971" y="132" width="13" height="13" rx="1.8" fill="#E76F51"/>
-    <text x="996" y="144" font-family="IBM Plex Mono, monospace" font-size="12" fill="#5A6B73">05</text>
-    <text x="971" y="173" font-family="Comfortaa, Arial, sans-serif" font-size="19" font-weight="600" fill="#1D2D35">Improve</text>
-    <text x="971" y="194" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12" fill="#5A6B73">evidence + iteration</text>
+    <rect x="955" y="118" width="170" height="92" rx="16" fill="#FFFFFF" stroke="#E3E7E8"/>
+    <rect x="971" y="134" width="13" height="13" rx="1.8" fill="#E76F51"/>
+    <text x="996" y="146" font-family="IBM Plex Mono, monospace" font-size="12" fill="#5A6B73">05</text>
+    <text x="971" y="175" font-family="Comfortaa, Arial, sans-serif" font-size="19" font-weight="600" fill="#1D2D35">Improve</text>
+    <text x="971" y="196" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12" fill="#5A6B73">evidence + iteration</text>
   </g>
-
-  <circle cx="270" cy="157" r="4" fill="#21877D"/>
-  <circle cx="490" cy="157" r="4" fill="#21877D"/>
-  <circle cx="710" cy="157" r="4" fill="#21877D"/>
-  <circle cx="930" cy="157" r="4" fill="#21877D"/>
-
+  <circle cx="270" cy="159" r="4" fill="#21877D"/>
+  <circle cx="490" cy="159" r="4" fill="#21877D"/>
+  <circle cx="710" cy="159" r="4" fill="#21877D"/>
+  <circle cx="930" cy="159" r="4" fill="#21877D"/>
   <rect x="1102" y="238" width="10" height="10" rx="1.5" fill="#21877D" opacity="0.75"/>
   <rect x="1119" y="238" width="10" height="10" rx="1.5" fill="#1D2D35" opacity="0.75"/>
   <rect x="1136" y="238" width="10" height="10" rx="1.5" fill="#E76F51"/>
