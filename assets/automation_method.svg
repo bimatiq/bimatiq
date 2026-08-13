@@ -7,7 +7,7 @@
   <path d="M132 159H1068" stroke="#21877D" stroke-width="2" stroke-linecap="round" stroke-dasharray="3 13"/>
   <g>
     <rect x="75" y="118" width="170" height="92" rx="16" fill="#FFFFFF" stroke="#E3E7E8"/>
-    <rect x="91" y="134" width="13" height="13" rx="1.8" fill="#E76FQ1"/>
+    <rect x="91" y="134" width="13" height="13" rx="1.8" fill="#E76F51"/>
     <text x="116" y="146" font-family="IBM Plex Mono, monospace" font-size="12" fill="#5A6B73">01</text>
     <text x="91" y="175" font-family="Comfortaa, Arial, sans-serif" font-size="19" font-weight="600" fill="#1D2D35">Understand</text>
     <text x="91" y="196" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12" fill="#5A6B73">workflow + friction</text>
