@@ -1,21 +1,15 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/316702311?v=4" width="165" alt="Bimatiq logo">
-
-# BIMATIQ
-
-### BIM automation, Revit development and practical AI for design and construction
-
-**Structured information. Better workflows. Useful automation.**
+<img src="./assets/header.svg" alt="Bimatiq" width="100%">
 
 <br>
 
-![Revit](https://img.shields.io/badge/Revit-1C1C1C?style=for-the-badge&logo=autodesk&logoColor=2EC5C9)
-![C Sharp](https://img.shields.io/badge/C%20Sharp-1C1C1C?style=for-the-badge&logo=dotnet&logoColor=FF6B6B)
-![Python](https://img.shields.io/badge/Python-1C1C1C?style=for-the-badge&logo=python&logoColor=2EC5C9)
-![Dynamo](https://img.shields.io/badge/Dynamo-1C1C1C?style=for-the-badge&logoColor=2EC5C9)
-![AI](https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-1C1C1C?style=for-the-badge&logo=git&logoColor=2EC5C9)
+<img src="./assets/badges/revit.svg" alt="Revit" width="145">
+<img src="./assets/badges/csharp.svg" alt="C Sharp" width="145">
+<img src="./assets/badges/python.svg" alt="Python" width="145">
+<img src="./assets/badges/dynamo.svg" alt="Dynamo" width="145">
+<img src="./assets/badges/ai.svg" alt="AI" width="145">
+<img src="./assets/badges/git.svg" alt="Git" width="145">
 
 </div>
 
@@ -138,15 +132,7 @@ A prototype proves a concept. Testing and validation are required before a syste
 
 Bimatiq is developing reusable systems for controlled Revit automation and connected design workflows.
 
-Our direction brings together:
-
-**Revit development**  
-**BIM standards**  
-**Structured information**  
-**Design automation**  
-**AI orchestration**  
-**Digital delivery workflows**  
-**DfMA knowledge**
+Our direction brings together Revit development, BIM standards, structured information, design automation, AI orchestration, digital delivery workflows and DfMA knowledge.
 
 The goal is to create practical systems that help design and construction teams work with information more reliably and efficiently.
 
@@ -166,12 +152,12 @@ Focused on connecting design knowledge with software and automation to solve pra
 
 <div align="center">
 
-### BIMATIQ
+<img src="./assets/biq_logo.svg" alt="Bimatiq logo" width="190">
+
+<br>
 
 **BIM Automation · Revit Development · Digital Workflows · Practical AI**
 
 *Building better ways to work with design information.*
 
 </div>
-
-<!-- LinkedIn, website and selected Bimatiq project links will be added here when ready. -->
