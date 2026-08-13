@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#FFFFFF"/>
+<stop offset="1" stop-color="#F4F7F7"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="360" rx="32" fill="url(#bg)"/>
+<rect x="0" y="0" width="12" height="360" rx="6" fill="#2EC5C9"/>
+<circle cx="1110" cy="58" r="10" fill="#FF6B6B"/>
+<circle cx="1144" cy="92" r="6" fill="#2EC5C9" opacity="0.75"/>
+<circle cx="1080" cy="108" r="4" fill="#1C1C1C" opacity="0.35"/>
+<circle cx="1018" cy="54" r="5" fill="#2EC5C9" opacity="0.45"/>
+<circle cx="1155" cy="158" r="4" fill="#FF6B6B" opacity="0.55"/>
+<circle cx="1068" cy="178" r="7" fill="#2EC5C9" opacity="0.35"/>
+<g transform="translate(74 92)" fill="none" stroke-linecap="round">
+<path d="M18 4v78" stroke="#1C1C1C" stroke-width="12"/>
+<circle cx="44" cy="58" r="27" stroke="#1C1C1C" stroke-width="12"/>
+<path d="M98 34v48" stroke="#2EC5C9" stroke-width="12"/>
+<circle cx="98" cy="13" r="6" fill="#FF6B6B" stroke="none"/>
+<circle cx="153" cy="58" r="27" stroke="#2EC5C9" stroke-width="12"/>
+<path d="M171 77l10 15" stroke="#2EC5C9" stroke-width="12"/>
+</g>
+<text x="335" y="132" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="7" fill="#1C1C1C">BIMATIQ</text>
+<text x="338" y="181" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" fill="#2EC5C9">BIM AUTOMATION  •  REVIT DEVELOPMENT  •  PRACTICAL AI</text>
+<text x="338" y="225" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#555555">Structured information. Better workflows. Useful automation.</text>
+<rect x="338" y="258" width="76" height="6" rx="3" fill="#2EC5C9"/>
+<rect x="422" y="258" width="28" height="6" rx="3" fill="#FF6B6B"/>
+<rect x="458" y="258" width="116" height="6" rx="3" fill="#1C1C1C"/>
+<path d="M930 258c55 0 72-68 126-68 38 0 50 31 88 31" fill="none" stroke="#2EC5C9" stroke-width="4" opacity="0.45"/>
+<circle cx="930" cy="258" r="7" fill="#1C1C1C"/>
+<circle cx="1056" cy="190" r="7" fill="#FF6B6B"/>
+<circle cx="1144" cy="221" r="7" fill="#2EC5C9"/>
+</svg>
