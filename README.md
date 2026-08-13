@@ -85,9 +85,11 @@ Used for controlled source history, development tracking, review and software de
 
 <div align="center">
 
-### Understand → Structure → Automate → Validate → Improve
+<img src="./assets/automation_method.svg" alt="Bimatiq automation method" width="100%">
 
 </div>
+
+<br>
 
 **01 Understand the workflow**  
 Identify where information comes from, how it is used and where manual work creates friction.
